@@ -1,6 +1,6 @@
-# [Jalon Tyndall]
-## [Assignment 2]
-## [Submission date: 09/17/24]
+# Jalon Tyndall
+## Assignment 2
+## Submission date: 09/17/24
 ## Worked with/sources 
 * example
 * example
